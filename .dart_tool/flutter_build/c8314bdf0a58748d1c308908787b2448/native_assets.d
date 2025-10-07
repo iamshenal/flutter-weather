@@ -1,0 +1,1 @@
+ /Users/shenalsudasinghe/kode/weather_app/.dart_tool/flutter_build/c8314bdf0a58748d1c308908787b2448/native_assets.yaml: 
